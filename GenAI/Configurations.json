@@ -1,0 +1,15 @@
+{
+    "inference_mode": true,
+    "sourcePath" : "test.jpg",
+
+    "OpenAI": {
+        "Chatgpt": {
+            "api_key": "yourkeyhere",
+            "engine" : "davinci-instruct-beta-v3"
+                 
+            }
+            
+        }
+    }
+       
+
